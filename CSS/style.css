@@ -38,14 +38,14 @@ input {
 	
 }
 
-#GPA1, #GPA2, #GPA3, #GPA4, #GPA5 {
+#GPA1, #GPA2, #GPA3, #GPA4, #GPA5, #GPA6, #GPA7, #GPA8 {
 	
 	width: 35%;
 	float: left;
 	display: inline-block;
 }
 
-#Credit1, #Credit2, #Credit3, #Credit4, #Credit5 {
+#Credit1, #Credit2, #Credit3, #Credit4, #Credit5, #Credit6, #Credit7, #Credit8 {
 	width: 35%;
 	float: right;
 	display: inline-block;
