@@ -10,8 +10,8 @@
 	 var n3 = parseFloat(document.getElementById('GPA3').value);
 	 var n4 = parseFloat(document.getElementById('GPA4').value);
 	 var n5 = parseFloat(document.getElementById('GPA5').value);
-	 var n6 = parseFloat(document.getElementById('GPA5').value);
-	 var n7 = parseFloat(document.getElementById('GPA5').value);
+	 var n6 = parseFloat(document.getElementById('GPA6').value);
+	 var n7 = parseFloat(document.getElementById('GPA7').value);
 	 
 	  document.getElementById('result').innerHTML="<br />"+"Your CGPA is ="+n1;
 	  
@@ -21,8 +21,8 @@
 	 var c3 = parseFloat(document.getElementById('Credit3').value);
 	 var c4 = parseFloat(document.getElementById('Credit4').value);
 	 var c5 = parseFloat(document.getElementById('Credit5').value);
-	 var c6 = parseFloat(document.getElementById('Credit5').value);
-	 var c7 = parseFloat(document.getElementById('Credit5').value);
+	 var c6 = parseFloat(document.getElementById('Credit6').value);
+	 var c7 = parseFloat(document.getElementById('Credit7').value);
 	 
 	 
 	 
